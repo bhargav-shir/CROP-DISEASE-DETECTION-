@@ -1,0 +1,96 @@
+{
+  "Tomato_Early_Blight": {
+    "display_name": "Tomato early blight",
+    "cause": "Fungus (Alternaria solani)",
+    "symptoms": "Brown/black concentric ring spots on older, lower leaves; yellowing around spots",
+    "treatment": [
+      "Remove and destroy infected leaves immediately (do not compost)",
+      "Apply a copper-based fungicide or chlorothalonil spray every 7-10 days",
+      "Ensure good air circulation between plants (prune excess foliage)"
+    ],
+    "prevention": [
+      "Rotate crops (2-3 year gap for tomatoes)",
+      "Avoid overhead watering - water at soil level instead",
+      "Mulch around the base to prevent soil splash onto leaves"
+    ]
+  },
+  "Tomato_Late_Blight": {
+    "display_name": "Tomato late blight",
+    "cause": "Oomycete (Phytophthora infestans)",
+    "symptoms": "Large water-soaked dark patches on leaves, white mold on undersides in humid conditions",
+    "treatment": [
+      "Remove and destroy infected plants promptly - spreads fast",
+      "Apply fungicides containing chlorothalonil or copper compounds",
+      "Avoid working in the field when leaves are wet"
+    ],
+    "prevention": [
+      "Use resistant tomato varieties where available",
+      "Space plants for airflow, avoid overhead irrigation",
+      "Monitor closely during cool, wet weather"
+    ]
+  },
+  "Potato_Late_Blight": {
+    "display_name": "Potato late blight",
+    "cause": "Oomycete (Phytophthora infestans)",
+    "symptoms": "Dark lesions on leaves and stems, white fungal growth on leaf undersides",
+    "treatment": [
+      "Destroy infected plants to stop spread",
+      "Apply approved fungicide (e.g. copper-based) preventatively in humid seasons",
+      "Harvest tubers early if blight is active in the field"
+    ],
+    "prevention": [
+      "Plant certified disease-free seed potatoes",
+      "Hill soil well over tubers to reduce spore contact",
+      "Rotate crops away from potatoes/tomatoes for 2+ years"
+    ]
+  },
+  "Corn_Common_Rust": {
+    "display_name": "Corn common rust",
+    "cause": "Fungus (Puccinia sorghi)",
+    "symptoms": "Small reddish-brown raised pustules on both leaf surfaces",
+    "treatment": [
+      "Apply foliar fungicide if infection is severe and early in season",
+      "Remove heavily infected lower leaves"
+    ],
+    "prevention": [
+      "Plant resistant corn hybrids",
+      "Avoid dense planting to improve airflow"
+    ]
+  },
+  "Apple_Scab": {
+    "display_name": "Apple scab",
+    "cause": "Fungus (Venturia inaequalis)",
+    "symptoms": "Olive-green to black scabby spots on leaves and fruit",
+    "treatment": [
+      "Apply fungicide sprays starting at bud break, repeat per label interval",
+      "Remove and dispose of fallen leaves in autumn to reduce spore source"
+    ],
+    "prevention": [
+      "Choose scab-resistant apple varieties",
+      "Prune trees for good airflow and sun penetration"
+    ]
+  },
+  "Grape_Black_Rot": {
+    "display_name": "Grape black rot",
+    "cause": "Fungus (Guignardia bidwellii)",
+    "symptoms": "Circular brown leaf spots with dark borders, shriveled black 'mummified' berries",
+    "treatment": [
+      "Remove mummified berries and infected leaves from the vine and ground",
+      "Apply fungicide from early shoot growth through fruit set"
+    ],
+    "prevention": [
+      "Prune for canopy airflow",
+      "Clean up fallen leaves/fruit each season to reduce overwintering spores"
+    ]
+  },
+  "Healthy": {
+    "display_name": "Healthy",
+    "cause": "N/A",
+    "symptoms": "No visible disease symptoms",
+    "treatment": [],
+    "prevention": [
+      "Continue regular watering and fertilizing schedule",
+      "Monitor periodically for early signs of disease"
+    ]
+  }
+}
